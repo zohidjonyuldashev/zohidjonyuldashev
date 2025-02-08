@@ -14,7 +14,6 @@ I'm a **Java Backend Developer** with expertise in **Spring Framework**. Current
 ## 📫 Connect with Me
 - **GitHub**: [github.com/zohidjonyuldashev](https://github.com/zohidjonyuldashev)
 - **LinkedIn**: [linkedin.com/in/zohidjon-yuldashev](https://www.linkedin.com/in/zohidjon-yuldashev-942a22239/)
-- **Telegram**: [t.me/zohidjon_yuldashev](https://t.me/zohidjon_yuldashev)
 - **Leetcode**: [leetcode.com/u/zohidjon_yuldashev](https://leetcode.com/u/zohidjon_yuldashev/)
 - **Email**: yuldashevzoxid30@gmail.com
 
