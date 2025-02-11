@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zohidjon Yuldashev</h1>
 
 ## About Me
-I'm a **Java Backend Developer** with expertise in **Spring Framework**. Currently, I'm pursuing my **Bachelor's degree in Software Development and Programming** at **PDP University**. Passionate about building scalable and efficient backend solutions, I enjoy working with modern technologies.
+I'm a **Java Backend Developer** with expertise in **Spring Framework**. Currently, I'm pursuing my **Bachelor's degree in Software Development and Programming** at **PDP University** in Tashkent. Passionate about building scalable and efficient backend solutions, I enjoy working with modern technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
