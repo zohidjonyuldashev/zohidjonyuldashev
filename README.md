@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zohidjon Yuldashev</h1>
 
 ## About Me
-I'm a **Software Engineer** with DevOps experience. Currently, I'm pursuing my **Bachelor's degree in Software Development and Programming** at **PDP University** in Tashkent. Currently I’m currently doing a DevOps internship at AnyOps company. I enjoy working with modern technologies.
+I'm a **Software Engineer** with **DevOps** experience. Currently, I'm pursuing my **Bachelor's degree in Software Development and Programming** at **PDP University** in Tashkent. Currently, I’m doing a DevOps internship at AnyOps company. I enjoy working with modern technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
